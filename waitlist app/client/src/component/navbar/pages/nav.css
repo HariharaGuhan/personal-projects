@@ -1,0 +1,15 @@
+.mar{
+    margin-left: 25px;
+    color: lightcyan;
+}
+@media  screen and (max-width: 600px) {
+   .nav1 {
+      background-color: rgb(15, 110, 141);
+    }
+  }
+  .bg-form{
+    background-image: url('https://d3nn873nee648n.cloudfront.net/1200x1800-new/18624/SM846869.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
